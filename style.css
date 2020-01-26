@@ -1,0 +1,26 @@
+body {
+/* background-color: blue; */
+}
+
+p {
+    padding: 15px;
+    padding-bottom: 0px;
+    margin: 45px;
+    border: 2px solid black;
+    color: #72ff58fc;
+    background-color:green;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+[id="email-address"] {
+  background color: black;
+  color: white;
+  font-size: 30px;
+}
+[class="types of hay"] {
+  background-color: blue;
+}
+.rotation {
+    Transform: rotate(90deg);
+}
